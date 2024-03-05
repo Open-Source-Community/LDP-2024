@@ -2,7 +2,6 @@
 
 <img src="./images/OpenSUSE_Tumbleweed_green_logo.svg.png"  width="180" height="100">
 
-
 ## 4. Installation Guide
 
 1. You can get openSUSE Tumbleweed's ISO image from [here](https://get.opensuse.org/tumbleweed/).
@@ -19,10 +18,10 @@
 
    ### You also have the choice between two different images for download: Offline Image and Network Image.
 
-   | Offline                                                                                | Network                                                                                                                                 |
-   | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-   | Contains all packages needed for installation and is perfect for offline installation. | It is very small and downloads system and packages from online repositories.                                                            |
-   | downloads the latest snapshot and builds the system upon that one.                     | builds the system upon the snapshot at the time you downloaded it. if it was a year ago you build it based on the snapshot from a year. |
+   | Offline                                                                                                                                 | Network                                                                      |
+   | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+   | Contains all packages needed for installation and is perfect for offline installation.                                                  | It is very small and downloads system and packages from online repositories. |
+   | builds the system upon the snapshot at the time you downloaded it. if it was a year ago you build it based on the snapshot from a year. | downloads the latest snapshot and builds the system upon that one.           |
 
 2. You can then burn the ISO image to a USB stick using this [link](https://cubiclenate.com/linux/opensuse/basic-installation-guide/) in Writing the Image to USB Drive
    section for Windows version or Mac version or Linux.
@@ -49,11 +48,13 @@
     <img src="./images/OpenSUSE-Language-and-Keyboard-768x578.png">
 
 8. After accepting the license agreement, you will get the following prompt. This prompt is basically asking you if you want to enable the online repositories for your system. Click `Yes` to enable online repositories, then click `Next`
+
    <img src="./images/OpenSUSE-Online-Repositories-768x565.png">
 
 9. Next, you can choose which repositories you want to use. You can use OSS and non OSS repositories, which means your system will be able to download open source and not open source softwares.
 
    Now this depends how you plan to use OpenSUSE, if you are planning to use it as a desktop OS, then you may need to use all 4 repositories, if you plan to use it only as a server OS, then you will most likely be using open source softwares.
+
    <img src="./images/Choose-OpenSUSE-Repositories-768x572.png">
 
 10. Next, select the System Role.
@@ -103,4 +104,3 @@
 19. Next, log in using the local user’s login credentials.
 
     <img src="./images/OpenSUSE-TumbleWeed-Desktop-768x377.png">
-
