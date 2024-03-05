@@ -52,3 +52,9 @@ First release and a snapshot of the original website
   - Is `Flatkpak` pre-installed?
 - Installation Guide
   - Step by step guide with diagrams. -->
+
+
+
+
+### References
+- [EndeavourOS site](https://endeavouros.com/)
