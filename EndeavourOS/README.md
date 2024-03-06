@@ -6,6 +6,7 @@
 
 <img src="imgs/EndeavourOS_4.webp" alt="EndeavourOS_4">
 
+
 - When the popular Arch-based distro Antergos ended
 its run in May 2019, it left a friendly and extremely helpful community behind.
 Within a matter of days after the announcement, Bryan Poerwoatmodjo opted for
