@@ -51,3 +51,16 @@
   - Regular Updates: Parrot OS is regularly updated with the latest security patches and software updates, ensuring users have access to the most up-to-date tools and features.
   - High Customizability: Parrot OS offers a high level of customization, enabling users to configure and adjust various aspects of the operating system to suit their specific needs.
 ---
+- ## Weakness:
+  - Limited mainstream support: Despite having a supportive community, Parrot OS may lack the same level of mainstream support as more popular Linux distributions.
+  - Not suitable for everyday use: Parrot OS is primarily tailored for security and development purposes, making it less than ideal for daily tasks.
+  - Steep learning curve: Certain tools in Parrot OS may pose a challenge for users due to their complex nature, requiring significant effort to master.
+  - Not optimized for gaming: Parrot OS is not intended for gaming, making it a less favorable choice for users seeking a gaming-friendly operating system.
+  - Limited software support: Parrot OS may not offer the same extensive software support as other Linux distributions due to its lower popularity.
+  - Limited software availability: Despite its wide array of pre-installed tools, Parrot OS may not provide the same level of software availability as more mainstream distributions.
+  - Hardware compatibility issues: Users with older or less common hardware configurations may encounter compatibility problems when running Parrot OS.
+  - Dependency issues: Installing and configuring software in Parrot OS may involve resolving dependency issues, which can be time-consuming and daunting for newcomers.
+  - Documentation challenges: While Parrot OS offers comprehensive documentation, some users, especially those new to Linux, may struggle to comprehend or navigate it effectively.
+   - Resource-intensive tools: Certain tools in Parrot OS may demand significant system resources, potentially causing performance issues on older or less powerful hardware.
+  - Parrot OS does not come with Flatpak pre-installed1. However, you can easily install Flatpak on Parrot OS
+---
