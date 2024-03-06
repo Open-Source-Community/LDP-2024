@@ -50,9 +50,9 @@ First release and a snapshot of the original website
   - i3-wm
   
   
----
 ### References
 - [EndeavourOS site](https://endeavouros.com/)
+
 
 ### 2- Intended Users
 - Use cases:
@@ -61,3 +61,15 @@ First release and a snapshot of the original website
 - Cases where don't use this distro:
   - Endeavour OS is not for servers because it is Rolling Release Model.
   - If you are new to linux, Endeavour OS may be not comfortable for you. 
+
+
+### 3- Strengths & Weakness
+- Strengths:
+  - Pacman package manager is so fast.
+  - Having access to Arch User Repositery (AUR).
+  - Have many flavors like KDE(default), GNOME, Xfce4, i3-wm, Budgie, Cinnamon, Mate, LXDE and LXQT.
+  - User-Friendly Installation Tool
+- Weakness:
+  - Limited Official Support
+  - Rolling Release Model
+  - Potientional Learning Curves
