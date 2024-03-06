@@ -201,21 +201,24 @@
 - the first time you open Pop!\_OS you will see this screen
 	
 	![](imgs/Pop!_OS_native_1.png)
+	
 - chose the language you want, then click "**select**".
 	
 	![](imgs/Pop!_OS_native_2.png)
+	
 - chose the region of the language you chose, then click "**select**".
 	
 	![](imgs/Pop!_OS_native_3.png)
 	
 	![](imgs/Pop!_OS_native_4.png)
+	
 - chose your keyboard layout, then click "**select**".
 	
 	![](imgs/Pop!_OS_native_5.png)
+	
 - this step is very **IMPORTANT**:
 	- IF YOU USE the 1st method, click on "**Try Demo Mode**" button
 	
 		![](imgs/Pop!_OS_native_6.png)
+		
 	- IF YOU USE the 3rd method, click on **clean install**, then click on the green "clean install" button.
-		![](imgs/Pop!_OS_native_7.png)
-	- IF YOU USE the 2nd method, click on **Custom (Advanced)**, then click on green "Custom (Advanced)" button.
