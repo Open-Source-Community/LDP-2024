@@ -74,3 +74,148 @@
   	- **Imagine** that you are in front of a store that sells everything for free, you **CAN'T**!!!..... You're excused, but there are stores like this and Flatpak is one of these stores, and **GUESS** what!... Flatpak is **pre-installed** on Pop!\_OS.
 ---
 ## Installation Guide
+- here we are..... **finally**, the most funny part of this page.
+- if you want to install Pop!\_OS or try it, you have 3 methods:
+	1. you can use a cool feature called live booting, this feature allows you to try the OS without needing to install it on your computer and it's very easy, but stay until the end to see all the steps.
+	
+	2. you can install Pop!\_OS **AS** a second OS on your machine by making another cool feature called **DUAL BOOT**.
+
+	3. finally you can make a virtual machine in your main OS and install Pop!\_OS on it. (**I don't recommend this option**).
+- So to install Pop!\_OS we have general steps and specific steps.
+---
+## General Steps:
+
+- **first**, install the image file of the OS from the official website  [System76](https://pop.system76.com/) and click on the download button.
+
+	![](imgs/Pop!_OS_website.png)
+
+	![](imgs/Pop!_OS_list.png)
+
+- if you have **NVIDIA** graphics card choose the **NVIDIA** one.
+- **second**, if you willing to do the **first** method or the **second** one install balenaEtcher form official website [balenaEtcher](https://etcher.balena.io/).
+
+	![](imgs/BalenaEtcher_website.png)
+
+	![](imgs/BalenaEtcher_download.png)
+
+- if you willing to do the **third** method download the **Oracle VM VirtualBox** from the official website [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+	
+	![](/home/omar/Pictures/Screenshots/Screenshot from 2024-03-06 12-49-28.png)
+---
+## Specific Steps:
+### 1st method:
+- install balenaEtcher on your computer after downloading it.
+	
+	![](imgs/BalenaEtcher_insatll_1.png)
+- click on "I Agree" and it will load for some moments
+	
+	![](imgs/BalenaEtcher_insatll_2.png)
+- voilà.... now you installed balenaEtcher on your computer.
+	
+	![](imgs/BalenaEtcher_program_1.png)
+- now click on the "Flash from file" button.
+- go to the folder that you but the "**.iso**" file on it.(probably it will be in the Download folder)
+	
+	![](imgs/BalenaEtcher_program_2.png)
+- but a flash drive on your laptop to burn the ".iso" image on it.(you need a 4GB flash drive as a minimum)
+- click on the "Select target" button.
+	
+	![](imgs/BalenaEtcher_program_3.png)
+- select you flash drive, then click "select".
+	
+	![](imgs/BalenaEtcher_program_4.png)
+- now click the "Flash" button, **make sure that you don't have any files in this flash drive... this operation will format the flash drive**.
+	
+	![](imgs/BalenaEtcher_program_5.png)
+	
+	![](imgs/BalenaEtcher_program_6.png)
+	
+	![](imgs/BalenaEtcher_program_7.png)
+	
+	![](imgs/BalenaEtcher_program_8.png)
+- Turn off your OS and open your Boot Menu, it will lock like this. (if you don't know how to reach your boot menu, you can search on the internet)
+	
+	![](imgs/boot_menu.jpeg)
+- Choose the name of your flash drive, in my case it's (SanDisk)... then click the "Enter" key.
+	
+	![](imgs/Pop!_OS_start_window.jpeg)
+- it gives you a screen like this, click the "Enter" key.
+- scroll down to the **complete installation** section to see what to do next.  
+---
+###  3rd method:
+- install Oracle VM VirtualBox on your computer after downloading it.
+	
+	![](imgs/VirtualBox_program_1.png)
+- click next.
+	
+	![](imgs/VirtualBox_program_2.png)
+- also click next, and be patient.
+	
+	![](imgs/VirtualBox_program_3.png)
+- click yes.
+	
+	![](imgs/VirtualBox_program_4.png)
+- also click yes.
+	
+	![](imgs/VirtualBox_program_5.png)
+- click install.
+	
+	![](imgs/VirtualBox_program_6.png)
+	
+	![](imgs/VirtualBox_program_7.png)
+- congratulations, you finally did it. 
+	
+	![](imgs/VirtualBox_program_8.png)
+- To create a new virtual machine click on "New" button
+	
+	![](imgs/VirtualBox_program_9.png)
+- name your virtual machine as you want, and select a folder for this virtual machine, and select the ISO image (Pop!\_OS image), you will see that the type will change automatically.
+	
+	![](imgs/VirtualBox_program_10.png)
+- click on "Next" button.
+	
+	![](imgs/VirtualBox_program_11.png)
+- this is the specification of your virtual machine, give it as you want and click on "Next". (I **recommend** to give it 4GB RAM and 4 cores, but for **minimum** specs give it 2GB RAM and 2 cores).
+	
+	![](imgs/VirtualBox_program_12.png)
+- this is the storage of your virtual machine, give it as you want and click on "Next". I **recommend** to give it 32GB of storage, but for **minimum** 16GB).
+	
+	![](imgs/VirtualBox_program_13.png)
+- congratulations.... you are done!, click on "Finish".
+	
+	![](imgs/VirtualBox_program_14.png)
+- click on "Start" button, you will see a new window pops up and Pop!\_OS will run.
+	
+	![](imgs/inside_pop_vm_1.png)
+- to fix the window size go to the setting icon in the left down.
+	
+	![](imgs/inside_pop_vm_2.png)
+- scroll down to displays.
+	
+	![](imgs/inside_pop_vm_3.png)
+- select you screen resolution and click on **apply** then **keep**.
+	
+	![](imgs/inside_pop_vm_4.png)
+---
+### complete installation:
+- the first time you open Pop!\_OS you will see this screen
+	
+	![](imgs/Pop!_OS_native_1.png)
+- chose the language you want, then click "**select**".
+	
+	![](imgs/Pop!_OS_native_2.png)
+- chose the region of the language you chose, then click "**select**".
+	
+	![](imgs/Pop!_OS_native_3.png)
+	
+	![](imgs/Pop!_OS_native_4.png)
+- chose your keyboard layout, then click "**select**".
+	
+	![](imgs/Pop!_OS_native_5.png)
+- this step is very **IMPORTANT**:
+	- IF YOU USE the 1st method, click on "**Try Demo Mode**" button
+	
+		![](imgs/Pop!_OS_native_6.png)
+	- IF YOU USE the 3rd method, click on **clean install**, then click on the green "clean install" button.
+		![](imgs/Pop!_OS_native_7.png)
+	- IF YOU USE the 2nd method, click on **Custom (Advanced)**, then click on green "Custom (Advanced)" button.
