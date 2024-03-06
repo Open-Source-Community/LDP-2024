@@ -2,6 +2,64 @@
 
 <img src="./images/OpenSUSE_Tumbleweed_green_logo.svg.png"  width="180" height="100">
 
+## 1. Distribution History
+
+* ### Release date:
+    There are two openSUSE distributions: 
+    
+    Tumbleweed and Leap. openSUSE Tumbleweed, introduced in 2010, adheres to a rolling-release model, whereas openSUSE Leap, introduced in 2015, operates on a fixed release cycle.
+
+* ###  Understanding the Rolling Release model
+
+    In the Linux world, there are two primary release models for distributions:
+    
+     periodic release and rolling release. Periodic releases deliver major updates at fixed intervals, providing higher stability since all the updates have been tested, while a rolling release provides the latest software versions as they’re released. With a rolling release model, there’s no need for massive upgrades every few months. In this model, the updates are delivered frequently and can be installed at any time, ensuring your system stays updated at any time.
+
+* ### Flavors
+    * KDE Plasma
+    * GNOME
+    * Xfce
+    * Also can install other DEs later
+*  openSUSE Tumbleweed is based on SUSE Linux Enterprise Server.
+
+## 2. Intended Users
+
+- ### Use cases:
+
+  - The use cases for openSUSE Tumbleweed are diverse and cover a wide range of activities. Users rely on Tumbleweed for programming and gaming. It serves as a daily driver for many, including office applications and software development. Tumbleweed is used on both servers and desktops, and some users appreciate its continuous rolling updates and cutting-edge features.
+
+  - openSUSE Tumbleweed caters to a broad spectrum of users, from developers to gamers, offering a rolling release experience with a focus on keeping software up to date and stable.
+
+- ### Who can't use openSUSE Tumbleweed?
+  - openSUSE is not for users new to Linux.
+  - Users with limited or expensive internet access.
+  - If you prioritize stability over having the latest software versions.
+
+## 3. Strengths and Weakness
+
+- ### Strengths:
+
+  - `YaST`: (Yet another Setup Tool), a powerful configuration tool that simplifies system administration tasks with GUI.
+
+  - Flatpak is installed by default on openSUSE Tumbleweed.
+
+  - A variety of GUI desktops that are included with full support from the openSUSE developers.
+
+  - Using the up-to-date kernel, drivers, and packages.
+
+  - The rolling release model that provides stable updates.
+
+  - The solid installer that makes use of BTRFS snapshot and rollback.
+
+- ### Weakness:
+
+  - It is hard to install non-FOSS Software.
+
+  - It doesn’t seem to have a responsive community.
+
+  - Complexity: Some users may find openSUSE's configuration options and advanced features, especially for beginners.
+
+  - Requires long time to install.
 
 ## 4. Installation Guide
 
@@ -19,10 +77,10 @@
 
    ### You also have the choice between two different images for download: Offline Image and Network Image.
 
-   | Offline                                                                                | Network                                                                                                                                 |
-   | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-   | Contains all packages needed for installation and is perfect for offline installation. | It is very small and downloads system and packages from online repositories.                                                            |
-   | downloads the latest snapshot and builds the system upon that one.                     | builds the system upon the snapshot at the time you downloaded it. if it was a year ago you build it based on the snapshot from a year. |
+   | Offline                                                                                                                                 | Network                                                                      |
+   | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+   | Contains all packages needed for installation and is perfect for offline installation.                                                  | It is very small and downloads system and packages from online repositories. |
+   | builds the system upon the snapshot at the time you downloaded it. if it was a year ago you build it based on the snapshot from a year. | downloads the latest snapshot and builds the system upon that one.           |
 
 2. You can then burn the ISO image to a USB stick using this [link](https://cubiclenate.com/linux/opensuse/basic-installation-guide/) in Writing the Image to USB Drive
    section for Windows version or Mac version or Linux.
@@ -49,11 +107,13 @@
     <img src="./images/OpenSUSE-Language-and-Keyboard-768x578.png">
 
 8. After accepting the license agreement, you will get the following prompt. This prompt is basically asking you if you want to enable the online repositories for your system. Click `Yes` to enable online repositories, then click `Next`
+
    <img src="./images/OpenSUSE-Online-Repositories-768x565.png">
 
 9. Next, you can choose which repositories you want to use. You can use OSS and non OSS repositories, which means your system will be able to download open source and not open source softwares.
 
    Now this depends how you plan to use OpenSUSE, if you are planning to use it as a desktop OS, then you may need to use all 4 repositories, if you plan to use it only as a server OS, then you will most likely be using open source softwares.
+
    <img src="./images/Choose-OpenSUSE-Repositories-768x572.png">
 
 10. Next, select the System Role.
@@ -103,4 +163,3 @@
 19. Next, log in using the local user’s login credentials.
 
     <img src="./images/OpenSUSE-TumbleWeed-Desktop-768x377.png">
-
