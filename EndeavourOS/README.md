@@ -2,7 +2,7 @@
 
 # Endeavour OS
 ![Endeavour OS](imgs/endeavouros-dark.png)
-### 1- Distribution History
+## 1- Distribution History
 
 <img src="imgs/EndeavourOS_4.webp" alt="EndeavourOS_4">
 
@@ -50,7 +50,7 @@ First release and a snapshot of the original website
   - LXDE
   - i3-wm
 
-### 2- Intended Users
+## 2- Intended Users
 - Use cases:
   - Users who have some experience with Linux and are comfortable with tasks such as manual system configuration, command-line usage, and troubleshooting.
   - Users who are comfortable to use arch-based distro and know how to use pacman and Arch User Repository (AUR) but with user-friendly interface.
@@ -59,7 +59,7 @@ First release and a snapshot of the original website
   - If you are new to linux, Endeavour OS may be not comfortable for you. 
 
 
-### 3- Strengths & Weakness
+## 3- Strengths & Weakness
 - Strengths:
   - Pacman package manager is so fast.
   - Having access to Arch User Repositery (AUR).
@@ -70,9 +70,9 @@ First release and a snapshot of the original website
   - Rolling Release Model
   - Potientional Learning Curves
 
-### 4- Installation Guide
+## 4- Installation Guide
 
-##### Direct installation
+### Direct installation
    1. Download the EndeavourOS ISO file from their website.
    2. Burn the ISO file to a blank DVD or USB drive, using a tool like Rufus or Etcher.
    3. Insert the DVD or USB drive into your computer and boot up from it.
@@ -81,7 +81,7 @@ First release and a snapshot of the original website
    6. After selecting your partitions, you will be asked what packages you would like to install during the setup process. Select any packages you want installed, or leave them all unchecked for a minimal install.
    7. Once all of your options have been selected, click “Install” and let EndeavourOS take care of the rest! The installation should take about 15 minutes depending on your hardware specs and package selection.
    8. When the installation is complete, reboot your computer and enjoy EndeavourOS!
-#### 2- VirtualBox:
+### VirtualBox:
    1. [Download the EndeavourOS ISO](https://endeavouros.com/)
    2. Download VirtualBox
    3. Create new VM
@@ -127,7 +127,8 @@ First release and a snapshot of the original website
     
    ![packages](imgs/packages.png)
    
-   15. Erase Disk because it is VM 
+   15. Erase Disk because it is VM
+    
    ![partations](imgs/partations.png)
    
    16. Make User 
