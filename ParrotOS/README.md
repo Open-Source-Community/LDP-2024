@@ -2,11 +2,11 @@
 
 - ## Distribution History
   - ## Release date:
-	Parrot Security OS is designed and developed by security expert Lorenzo "Palinuro" Faletra and a team of other security experts, open-source developers, digital rights advocates, and other Linux enthusiasts. The initial public launch was in April 2013. Parrot OS version 1.0, codenamed Hydrogen, was launched in July 2014.
+	- Parrot Security OS is designed and developed by security expert **Lorenzo Faletra** and a team of other security experts, open-source developers, digital rights advocates, and other Linux enthusiasts. The initial public launch was in ***April 2013***. Parrot OS version 1.0, codenamed Hydrogen, was launched in ***July 2014***.
 
-	In September 2015, Parrot OS version 2.0, codenamed Helium, was released. In June 2016, the third version, codenamed Lithium, was released. In May 2018, version 4 was launched. The latest version of Parrot OS is 4.11, which was published in March 2021.
+	- In ***September 2015***, Parrot OS version 2.0, codenamed Helium, was released. In ***June 2016***, the third version, codenamed Lithium, was released. In ***May 2018***, version 4 was launched. The latest version of Parrot OS is 4.11, which was published in ***March 2021***.
 
-	As stated previously, Parrot OS is built on Debian, while the Parrot team considered moving to Devuan in 2017 owing to system issues, which were eventually resolved. The Parrot OS team stopped supporting 32-bit in January 2019 to focus their work on x64 and ARM. In August 2020, the XFCE Desktop environment (Home Edition) was officially supported, making the system lighter.
+	- In ***2017***, the Parrot team faced some system issues and thought about switching to Devuan, but eventually, they were able to resolve the problems and did not have to make the switch. The team decided to stop supporting 32-bit in ***January 2019*** to concentrate on x64 and ARM. In ***August 2020***, the **XFCE** Desktop environment (Home Edition) was officially supported, which made the system lighter.
   - ## Flavors
     + Home Edition: The Home Edition is the base edition of Parrot OS, designed for daily use. It targets regular users who need a lightweight system on their laptops or workstations. The specific release date or history of this edition is not readily available.
     + Security Edition: The Security Edition is designed for penetration testing, vulnerability assessment and mitigation, computer forensics, and anonymous web browsing. It was part of the initial release of Parrot OS on April 10th, 2013.
