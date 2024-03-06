@@ -38,19 +38,18 @@ First release and a snapshot of the original website
 
 - This resulted in a distro that is lightweight and ships with a minimum amount of preinstalled apps. An almost blank canvas ready to personalize.
 
-<!-- ### 2- Intended Users -->
-<!-- - Intended Users
-  - Real life use cases.
-  - Cases where it might not be beneficial to use this specific distribution.
-- Strengths and Weakness
-  - Installation difficulty.
-  - Software availability.  (i.e. How hard is it to install non-FOSS Software?)
-  - Is `Flatkpak` pre-installed?
-- Installation Guide
-  - Step by step guide with diagrams. -->
-
-
-
-
+- Flavors:
+  - KDE
+  - GNOME
+  - Xcfe4
+  - Cinnamon
+  - Mate
+  - Budgie
+  - LXQT
+  - LXDE
+  - i3-wm
+  
+  
+---
 ### References
 - [EndeavourOS site](https://endeavouros.com/)
