@@ -1,4 +1,4 @@
-# parrot
+# ParrotOS
 
 - ## Distribution History
   - ## Release date:
@@ -39,31 +39,51 @@
 	  + Lastly, Parrot OS may not be compatible with all hardware configurations, so it is crucial to verify the system requirements before attempting to install it.
 ---
 - ## Strengths & Weakness
-  Parrot OS is a well-known Linux distribution that prioritizes security, privacy, and development. Let's explore the advantages and disadvantages of Parrot OS below:
-- ## Strengths:
-  - Enhanced Security: Parrot OS offers a range of built-in security features, including a sandbox system, cryptography tools, and anonymous browsing tools.
-  - Privacy Protection: Parrot OS is designed to safeguard users' privacy by providing secure and anonymous browsing options, as well as encrypted communication channels.
-  - Extensive Toolset: Parrot OS comes with a wi1. Enhanced Security: Parrot OS offers a range of built-in security features, including a sandbox system, cryptography tools, and anonymous browsing tools.
-  - Lightweight Design: Parrot OS is specifically designed to be lightweight, making it suitable for running on older hardware.
-  - User-Friendly: Parrot OS boasts a user-friendly interface and is easy to install and configure, making it an excellent choice for beginners.
-  - Versatility: Parrot OS is a versatile operating system that can be utilized for various purposes, including penetration testing, digital forensics, cryptography, and development.
-  - Free and Open-Source: Parrot OS is freely available as open-source software, allowing users to download, use, and modify it according to their requirements.
-  - Active Community: Parrot OS benefits from an active community of developers and users who contribute to its development, provide support, and share knowledge and resources.
-  - Regular Updates: Parrot OS is regularly updated with the latest security patches and software updates, ensuring users have access to the most up-to-date tools and features.
-  - High Customizability: Parrot OS offers a high level of customization, enabling users to configure and adjust various aspects of the operating system to suit their specific needs.
----
-- ## Weakness:
-  - Limited mainstream support: Despite having a supportive community, Parrot OS may lack the same level of mainstream support as more popular Linux distributions.
-  - Not suitable for everyday use: Parrot OS is primarily tailored for security and development purposes, making it less than ideal for daily tasks.
-  - Steep learning curve: Certain tools in Parrot OS may pose a challenge for users due to their complex nature, requiring significant effort to master.
-  - Not optimized for gaming: Parrot OS is not intended for gaming, making it a less favorable choice for users seeking a gaming-friendly operating system.
-  - Limited software support: Parrot OS may not offer the same extensive software support as other Linux distributions due to its lower popularity.
-  - Limited software availability: Despite its wide array of pre-installed tools, Parrot OS may not provide the same level of software availability as more mainstream distributions.
-  - Hardware compatibility issues: Users with older or less common hardware configurations may encounter compatibility problems when running Parrot OS.
-  - Dependency issues: Installing and configuring software in Parrot OS may involve resolving dependency issues, which can be time-consuming and daunting for newcomers.
-  - Documentation challenges: While Parrot OS offers comprehensive documentation, some users, especially those new to Linux, may struggle to comprehend or navigate it effectively.
-   - Resource-intensive tools: Certain tools in Parrot OS may demand significant system resources, potentially causing performance issues on older or less powerful hardware.
-  - Parrot OS does not come with Flatpak pre-installed1. However, you can easily install Flatpak on Parrot OS
+
+  - ### Strengths:
+
+    - Enhanced Security: Parrot OS offers a range of built-in security features, including a sandbox system, cryptography tools, and anonymous browsing tools.
+
+    - Privacy Protection: Parrot OS is designed to safeguard users' privacy by providing secure and anonymous browsing options, as well as encrypted communication channels.
+
+    - Extensive Toolset: Parrot OS comes with a wi1. Enhanced Security: Parrot OS offers a range of built-in security features, including a sandbox system, cryptography tools, and anonymous browsing tools.
+
+    - Lightweight Design: Parrot OS is specifically designed to be lightweight, making it suitable for running on older hardware.
+
+    - User-Friendly: Parrot OS boasts a user-friendly interface and is easy to install and configure, making it an excellent choice for beginners.
+
+    - Versatility: Parrot OS is a versatile operating system that can be utilized for various purposes, including penetration testing, digital forensics, cryptography, and development.
+
+    - Free and Open-Source: Parrot OS is freely available as open-source software, allowing users to download, use, and modify it according to their requirements.
+
+    - Active Community: Parrot OS benefits from an active community of developers and users who contribute to its development, provide support, and share knowledge and resources.
+
+    - Regular Updates: Parrot OS is regularly updated with the latest security patches and software updates, ensuring users have access to the most up-to-date tools and features.
+
+    - High Customizability: Parrot OS offers a high level of customization, enabling users to configure and adjust various aspects of the operating system to suit their specific needs.
+
+  - ### Weakness:
+
+    - Limited mainstream support: Despite having a supportive community, Parrot OS may lack the same level of mainstream support as more popular Linux distributions.
+
+    - Not suitable for everyday use: Parrot OS is primarily tailored for security and development purposes, making it less than ideal for daily tasks.
+
+    - Steep learning curve: Certain tools in Parrot OS may pose a challenge for users due to their complex nature, requiring significant effort to master.
+
+    - Not optimized for gaming: Parrot OS is not intended for gaming, making it a less favorable choice for users seeking a gaming-friendly operating system.
+
+    - Limited software support: Parrot OS may not offer the same extensive software support as other Linux distributions due to its lower popularity.
+
+    - Limited software availability: Despite its wide array of pre-installed tools, Parrot OS may not provide the same level of software availability as more mainstream distributions.
+
+    - Hardware compatibility issues: Users with older or less common hardware configurations may encounter compatibility problems when running Parrot OS.
+
+    - Dependency issues: Installing and configuring software in Parrot OS may involve resolving dependency issues, which can be time-consuming and daunting for newcomers.
+
+    - Documentation challenges: While Parrot OS offers comprehensive documentation, some users, especially those new to Linux, may struggle to comprehend or navigate it effectively.
+    
+    - Resource-intensive tools: Certain tools in Parrot OS may demand significant system resources, potentially causing performance issues on older or less powerful hardware.
+    - Parrot OS does not come with Flatpak pre-installed1. However, you can easily install Flatpak on Parrot OS
 ---
 # Installation Guide
 - #### Now we will explain How to install Parrot
