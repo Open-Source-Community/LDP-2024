@@ -82,6 +82,7 @@
 
 	3. finally you can make a virtual machine in your main OS and install Pop!\_OS on it. (**I don't recommend this option**).
 - So to install Pop!\_OS we have general steps and specific steps.
+- I will talk just about the 1st method and the 3rd method, you can see how to do the 2nd one on YouTube.
 ---
 ## General Steps:
 
