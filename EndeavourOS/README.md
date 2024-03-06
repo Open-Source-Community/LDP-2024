@@ -53,3 +53,11 @@ First release and a snapshot of the original website
 ---
 ### References
 - [EndeavourOS site](https://endeavouros.com/)
+
+### 2- Intended Users
+- Use cases:
+  - Users who have some experience with Linux and are comfortable with tasks such as manual system configuration, command-line usage, and troubleshooting.
+  - Users who are comfortable to use arch-based distro and know how to use pacman and Arch User Repository (AUR) but with user-friendly interface.
+- Cases where don't use this distro:
+  - Endeavour OS is not for servers because it is Rolling Release Model.
+  - If you are new to linux, Endeavour OS may be not comfortable for you. 
