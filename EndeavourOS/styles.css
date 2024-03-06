@@ -1,0 +1,15 @@
+.img-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  .img-container {
+    flex: 1;
+    margin-right: 10px; /* Adjust spacing between images */
+  }
+  .img-container:last-child {
+    margin-right: 0;
+  }
+  .img-container img {
+    width: 500;
+    height: auto;
+  }
