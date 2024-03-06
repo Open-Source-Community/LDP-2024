@@ -101,7 +101,7 @@
 
 - if you willing to do the **third** method download the **Oracle VM VirtualBox** from the official website [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 	
-	![](/home/omar/Pictures/Screenshots/Screenshot from 2024-03-06 12-49-28.png)
+	![](imgs/VirtualBox_website.png)
 ---
 ## Specific Steps:
 ### 1st method:
