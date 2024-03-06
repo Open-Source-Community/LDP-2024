@@ -64,3 +64,20 @@
    - Resource-intensive tools: Certain tools in Parrot OS may demand significant system resources, potentially causing performance issues on older or less powerful hardware.
   - Parrot OS does not come with Flatpak pre-installed1. However, you can easily install Flatpak on Parrot OS
 ---
+# Installation Guide
+- #### Now we will explain How to install Parrot
+    - You need to download Parrot OS installation Disk image
+    - There are many Parrot OS edition , You can download them from [Parrot OS ISO](https://www.parrotsec.org/download/) , and it will be like this <br> ![1](imgs/13.jpeg)
+    -  There are two ways to install first by selecting the Live Mode (but every time you turn off the machine , Everything in the machine will be erased) and 2nd by selecting the Install option and both will work the same. we will go with the 2nd method
+Select the Parrot OS in Left Pane and click on start for installation. <br> ![2](imgs/17.jpeg)
+    - In its home screen, Select Install Parrot to begin the installation. <br> ![3](imgs/18.jpeg)
+    - Provide your location. Click on Next. <br> ![4](imgs/19.jpeg)
+--- 
+    - Select the default language according to your keyboard below is selected for QUERTY keyboard layout. <br> ![5](imgs/20.jpeg)
+    - Click on the “Erase Disk” radio button (recommended for beginners ). It will automatically partition your virtual disk according to the size you have provided to it. Click on Next. <br> ![6](imgs/21.jpeg)
+    - Finally, you just need to create a user( root user) and password to access it whenever you want so that your data is saved. <br> ![7](imgs/22.jpeg)
+    - On the last page, it will show all the settings that you have selected or done till now so that you can verify it one last time before the final install procedure starts. <br> ![8](imgs/23.jpeg)
+    - After verification, if you are not satisfied and change some settings then you can either click on the Back button or click on the Cancel button. If satisfied, then click on the Install button, it will prompt you to continue installation, then click on Install Now, to begin the installation. <br> ![9](imgs/24.jpeg)
+    - Now we just need to wait for at least 20-30 minutes for the installation to finish up. After it has done, it will prompt to restart. Click on it restart so that your virtual machine will save all the necessary changes that have been made. <br> ![10](imgs/25.jpeg)
+    - After restart you will see that it’s done. <br> ![11](imgs/last.jpeg)
+    - #### Now Your Parrot OS is successfully installed in your PC with all the basic functionalities that are required. :D
