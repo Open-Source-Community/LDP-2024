@@ -20,12 +20,8 @@ with that vibrant community at its core.
 <br>
 
   <div class="img-row">
-  <div class="img-container">
-    <img src="imgs/antergosblue_by_decluttermind-d87lvni.webp" alt="antergosblue">
-  </div>
-  <div class="img-container">
-    <img src="imgs/endeavorrwall9.webp" alt="endeavorwall9">
-  </div>
+    <img src="imgs/antergosblue_by_decluttermind-d87lvni.webp" alt="antergosblue" width=500 margin-right=10px>
+    <img src="imgs/endeavorrwall9.webp" alt="endeavorwall9" width=500>
 </div>
 <br>
 
