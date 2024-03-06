@@ -215,11 +215,11 @@
 	
 - chose your keyboard layout, then click "**select**".
 	
-	![](imgs/Pop!_OS_native_5.png)
-	
 - this step is very **IMPORTANT**:
 	- IF YOU USE the 1st method, click on "**Try Demo Mode**" button
 	
-		![](imgs/Pop!_OS_native_6.png)
+		![](imgs/Pop!_OS_native_5.png)
 		
 	- IF YOU USE the 3rd method, click on **clean install**, then click on the green "clean install" button.
+	
+	  ![](imgs/Pop!_OS_native_6.png)
