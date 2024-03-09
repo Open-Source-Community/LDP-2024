@@ -6,7 +6,7 @@
 	- Pop!\_OS was made by System76, but before we dive into Pop!\_OS release date, let's talk about System76.
 	- System76 is an American computer manufacturer founded by **Carl Richell** and **Erik Fetzer** In 2003 to sell computers with ***Linux*** operating systems preinstalled.
 	- In 2005 all computers that shipped from System76 came out of the box with Ubuntu preinstalled, and this is **very important** information.
-	- But in ***2017*** System76 decided to make a **BIG** change in their computer lineup and the ___Linux___ community; they decided to make their distribution the best distribution ever "**at least in my opinion**", they called it Pop!\_OS, and beginning from that moment they shipped all there computers with it. 
+	- But in ***2017*** System76 decided to make a **BIG** change in their computer lineup and the ___Linux___ community; they decided to make their distribution, they called it Pop!\_OS, and beginning from that moment they shipped all there computers with it. 
 	
 - ### Based on distribution:
 	- Now let's talk more in technical detail, do you remember when I told you that System76 shipped their computers from 2005 with Ubuntu, guess what is the base distribution of Pop!\_OS!!..... you are right, it's Ubuntu.
@@ -18,7 +18,7 @@
 ## Intended Users
 - ### Real life use cases:
   - to answer on the question "__Isn’t Pop!\_OS just a re-skinned Ubuntu?__".... and the short answer is __NO__.
-  - Pop!\_OS has been designed with vibrant colors, a flat theme, and a clean desktop environment, but developers created it to do so much more than just look pretty. (Although it does look very pretty.)
+  - Pop!\_OS has been designed with vibrant colors, a flat theme, and a clean desktop environment, but developers created it to do so much more than just look pretty.
   - Pop!\_OS is designed to be:
     - **easy to use** for Linux beginners from the beginning to the end, also it's tech-savvy professional. 
     - **for all**, Pop!\_OS comes with 3 versions:
@@ -38,7 +38,7 @@
     - systemd-boot bootloader and the automatic configuration tool System76 have created for it called kernelstub replace the outdated GRUB bootloader used on Ubuntu.   
   
 - ### Cases where it might not be beneficial to use this specific distribution.
-  - In my humble opinion you **don't** need Pop!\_OS in case you are not: 
+  - You **don't** need Pop!\_OS in case you are not: 
   	- Software Engineer 
   	- ML&DL researcher
   	- Bioinformatics Engineer
@@ -58,7 +58,7 @@
 - Software availability. (i.e. How hard is it to install non-FOSS Software?)
 	- **LET's** be more realistic, we aren't in heaven and we can't get everything we need, we must **abandon** somethings in our lives to gain another.
 	
-	- when you use Pop!\_OS or any other Linux distributions there are a bunch of programs you can't run naively, an example is "Visual Studio", and there is a lot of programs that you can't run naively on Linux, the common between these programs is that they are a **~~close source~~**("not an Open Source") programs and no one can make a port for Linux except the company that owns these programs.
+	- when you use Pop!\_OS or any other Linux distributions there are a bunch of programs you can't run natively, an example is "Visual Studio", and there is a lot of programs that you can't run naively on Linux, the common between these programs is that they are a **~~close source~~**("not an Open Source") programs and no one can make a port for Linux except the company that owns these programs.
 	
 	- But **DON'T WORRY**, using Linux means that you have a **freedom** to do what you want, in your way and at any time.... so, we have multiple choices to solve the problem of software availability:
 		1. code this program from scratch by reverse engineering and make it **Open Source**. 
@@ -71,7 +71,8 @@
 - Is Flatpak pre-installed?
 	- for those who don't know what Flatpak is, simply Flatpak is a store for programs Like ~~Microsoft~~ Store, or as we call it in the Linux Community it's a package manager.
 	  
-	- **Imagine** that you are in front of a store that sells everything for free, you **CAN'T**!!!..... You're excused, but there are stores like this and Flatpak is one of these stores, and **GUESS** what!... Flatpak is **pre-installed** on Pop!\_OS.
+	- And for those who question, yes... Flatpak is **pre-installed** on Pop!_OS.
+	
 
 ---
 ## Installation Guide
@@ -81,7 +82,7 @@
 	
 	2. you can install Pop!\_OS **AS** a second OS on your machine by making another cool feature called **DUAL BOOT**.
 
-	3. finally you can make a virtual machine in your main OS and install Pop!\_OS on it. (**I don't recommend this option**).
+	3. finally you can make a virtual machine in your main OS and install Pop!\_OS on it.
 - So to install Pop!\_OS we have general steps and specific steps.
 - I will talk just about the 1st method and the 3rd method, you can see how to do the 2nd one on YouTube.
 ---
